@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-import CardNota from "./CardNota"
+import CardNota from "./CardNota/CardNota"
 
 class Lista extends Component{
 
@@ -17,8 +17,8 @@ class Lista extends Component{
             </li>
         </ul>
 
-        )
+        );
     }
 }
 
-export default Component;
+export default Lista;

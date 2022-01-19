@@ -12,7 +12,7 @@ class Formulario extends Component{
               <button>Criar Nota</button>
             </form>
         </section>
-        )
+        );
     }
 }
 
